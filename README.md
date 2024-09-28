@@ -1,4 +1,5 @@
-![welcome](https://github.com/user-attachments/assets/43d69c30-3b8b-4aa5-bec2-cf7ce8d49470)
+![image](https://github.com/user-attachments/assets/3a5f1937-ddd9-4589-81b0-82eaedc34c99)
+
 
 <h1 align="center">Hi 👋, I'm Dani</h1>
 <h3 align="center">I am a fourth semester student majoring in computer engineering at Binus University. I have a passion for application development such as UI/UX design to programming via Flutter. I am currently studying computer networks and cyber security. I am very open to learning new knowledge and expanding my network</h3>
