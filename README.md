@@ -33,7 +33,7 @@ I am a fourth semester student majoring in computer engineering at Binus Univers
         </ul>
       </td>
       <td>
-       ![test](https://github.com/user-attachments/assets/ecc7c5d3-acff-4c2b-a346-3f17f11ddf3b)
+      ![test](https://github.com/user-attachments/assets/23b993b1-0a68-4183-ae3e-2a0cdc3c6c16)alt="nba" style="max-width: 150px; border-radius: 10px;"/>
       </td>
     </tr>
   </table>
