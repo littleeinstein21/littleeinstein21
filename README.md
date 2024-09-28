@@ -42,6 +42,16 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
+  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="40" height="40"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
+  </a>
+  <a href="https://www.vmware.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="vmware" width="40" height="40"/>
+  </a>
+</p>
 <h3 align="left">Operating System:</h3>
 <p align="left">
   <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> 
