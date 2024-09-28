@@ -44,8 +44,8 @@ I am a fourth semester student majoring in computer engineering at Binus Univers
   </table>
 </div>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> 
+<h3 align="center">Languages:</h3>
+<p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -58,8 +58,8 @@ I am a fourth semester student majoring in computer engineering at Binus Univers
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
-<h3 align="left">Tools:</h3>
-<p align="left">
+<h3 align="center">Tools:</h3>
+<p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a>
@@ -76,8 +76,8 @@ I am a fourth semester student majoring in computer engineering at Binus Univers
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
   </a>
 </p>
-<h3 align="left">Operating System:</h3>
-<p align="left">
+<h3 align="center">Operating System:</h3>
+<p align="center">
   <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/> 
   </a> 
