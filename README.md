@@ -18,11 +18,13 @@ I am a fourth semester student majoring in computer engineering at Binus Univers
   </a>
 </div>
 
-<p align="center" style="margin-top: 100px;">
+<p align="center" style="margin-top: 20px;"> 
+  <strong>Contact Me:</strong><br>
   <a href="https://wa.me/62085155331120" target="blank">
-    <img src="https://img.shields.io/badge/Contact-Me-green?logo=whatsapp&style=for-the-badge" alt="Contact Me" />
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&style=for-the-badge" alt="Contact Me" />
   </a> 
 </p>
+
 
 <div align="center">
   <table>
