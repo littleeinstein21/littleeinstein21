@@ -1,7 +1,8 @@
 ![image](https://github.com/user-attachments/assets/386928fd-f22a-4f26-ad34-48c111c9f912)
 
 <h1 align="center">Hi 👋, I'm Dani</h1>
-<p align="center">align="center">
+</p>
+<p align="center">
 I am a fourth semester student majoring in computer engineering at Binus University. I have a passion for application development such as UI/UX design to programming via Flutter. I am currently studying computer networks and cyber security. I am very open to learning new knowledge and expanding my network
 </p>
 
