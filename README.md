@@ -19,7 +19,6 @@ I am a fourth semester student majoring in computer engineering at Binus Univers
 </div>
 
 <p align="center" style="margin-top: 60px;">
-  <strong>Contact Me:</strong><br>
   <a href="https://wa.me/62085155331120" target="blank">
     <img src="https://img.shields.io/badge/Contact-Me-green?logo=whatsapp&style=for-the-badge" alt="Contact Me" />
   </a> 
