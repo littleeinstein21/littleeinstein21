@@ -88,3 +88,5 @@ I am a fourth semester student majoring in computer engineering at Binus Univers
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
 </p>
+
+![image](https://github.com/user-attachments/assets/b70f4c10-7ce7-422b-a79a-97614fc74f67)
