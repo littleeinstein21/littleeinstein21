@@ -88,10 +88,3 @@ I am a fourth semester student majoring in computer engineering at Binus Univers
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=littleeinstein21&show_icons=true&locale=en&layout=compact" alt="littleeinstein21" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=littleeinstein21&show_icons=true&locale=en" alt="littleeinstein21" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=littleeinstein21&" alt="littleeinstein21" /></p>
