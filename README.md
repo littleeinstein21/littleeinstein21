@@ -5,7 +5,6 @@
 <p align="center">
 I am a fourth semester student majoring in computer engineering at Binus University. I have a passion for application development such as UI/UX design to programming via Flutter. I am currently studying computer networks and cyber security. I am very open to learning new knowledge and expanding my network
 </p>
-
 <h3 align="center">Connect with me:</h3>
 <div class="contact-box" align="center">
   <a href="https://twitter.com/baratstein21" target="blank">
@@ -19,12 +18,12 @@ I am a fourth semester student majoring in computer engineering at Binus Univers
   </a>
 </div>
 
-<p align="center"> 
+<p align="center" style="margin-top: 20px;"> 
+  <strong>Contact Me:</strong><br>
   <a href="https://wa.me/62085155331120" target="blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&style=for-the-badge" alt="Contact Me" />
   </a> 
 </p>
-
 
 <div align="center">
   <table>
