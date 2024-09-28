@@ -89,4 +89,5 @@ I am a fourth semester student majoring in computer engineering at Binus Univers
   </a> 
 </p>
 
-![image](https://github.com/user-attachments/assets/b70f4c10-7ce7-422b-a79a-97614fc74f67)
+![image](https://github.com/user-attachments/assets/7da65531-49b5-45cb-966a-010107b75cab)
+
