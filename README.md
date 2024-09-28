@@ -10,13 +10,18 @@
 - 💬 Ask me about **Computer Network and Network Security**
 
 - 📫 How to reach me **iamdaniaja21@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/baratstein21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baratstein21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/achmad-danii-6b3679208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/achmad-danii-6b3679208/" height="30" width="40" /></a>
-<a href="https://instagram.com/achmd.danii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achmd.danii" height="30" width="40" /></a>
-</p>
+<h3 align="center">Connect with me:</h3>
+<div class="contact-box" align="center">
+  <a href="https://twitter.com/baratstein21" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baratstein21" height="30" width="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/achmad-danii-6b3679208/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://instagram.com/achmd.danii" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" style="margin: 10px;"/>
+  </a>
+</div>
 <h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
