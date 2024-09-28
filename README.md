@@ -19,7 +19,11 @@ I am a fourth semester student majoring in computer engineering at Binus Univers
   </a>
 </div>
 
-<p align="left"> <a href="https://twitter.com/baratstein21" target="blank"><img src="https://img.shields.io/twitter/follow/baratstein21?logo=twitter&style=for-the-badge" alt="baratstein21" /></a> </p>
+<p align="center"> 
+  <a href="https://wa.me/62085155331120" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&style=for-the-badge" alt="WhatsApp Contact" />
+  </a> 
+</p>
 
 <div align="center">
   <table>
