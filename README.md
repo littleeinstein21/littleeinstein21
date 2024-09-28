@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dani</h1>
 <h3 align="center">I am a fourth semester student majoring in computer engineering at Binus University. I have a passion for application development such as UI/UX design to programming via Flutter. I am currently studying computer networks and cyber security. I am very open to learning new knowledge and expanding my network</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=littleeinstein21&label=Profile%20views&color=0e75b6&style=flat" alt="littleeinstein21" /> </p>
-
-<p align="left"> <a href="https://twitter.com/baratstein21" target="blank"><img src="https://img.shields.io/twitter/follow/baratstein21?logo=twitter&style=for-the-badge" alt="baratstein21" /></a> </p>
-
-- 🌱 I’m currently learning **Kali Linux**
-
-- 💬 Ask me about **Computer Network and Network Security**
-
-- 📫 How to reach me **iamdaniaja21@gmail.com**
 <h3 align="center">Connect with me:</h3>
 <div class="contact-box" align="center">
   <a href="https://twitter.com/baratstein21" target="blank">
@@ -22,6 +13,17 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" style="margin: 10px;"/>
   </a>
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=littleeinstein21&label=Profile%20views&color=0e75b6&style=flat" alt="littleeinstein21" /> </p>
+
+<p align="left"> <a href="https://twitter.com/baratstein21" target="blank"><img src="https://img.shields.io/twitter/follow/baratstein21?logo=twitter&style=for-the-badge" alt="baratstein21" /></a> </p>
+
+- 🌱 I’m currently learning **Kali Linux**
+
+- 💬 Ask me about **Computer Network and Network Security**
+
+- 📫 How to reach me **iamdaniaja21@gmail.com**
+
 <h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
