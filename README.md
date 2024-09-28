@@ -32,7 +32,7 @@
         </ul>
       </td>
       <td>
-      ![f58fe8e19a7e25ddf0c459a3599261d6](https://github.com/user-attachments/assets/5c36d553-c6b0-4f56-82f5-62620d092bb1)
+      ![image](https://github.com/user-attachments/assets/6d3f2884-068e-45c8-84b1-db32519b2965)
       </td>
     </tr>
   </table>
