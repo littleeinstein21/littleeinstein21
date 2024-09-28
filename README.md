@@ -20,11 +20,23 @@
 
 <p align="left"> <a href="https://twitter.com/baratstein21" target="blank"><img src="https://img.shields.io/twitter/follow/baratstein21?logo=twitter&style=for-the-badge" alt="baratstein21" /></a> </p>
 
-- 🌱 I’m currently learning **Kali Linux**
-
-- 💬 Ask me about **Computer Network and Network Security**
-
-- 📫 How to reach me **iamdaniaja21@gmail.com**
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left;">
+          <li>👤 Name: Achmad Danii</li>
+          <li>🌱 I’m currently learning <strong>Kali Linux</strong></li>
+          <li>💬 Ask me about <strong>Computer Network and Netwok Security</strong></li>
+          <li>📫 How to reach me <strong>iamdaniaja21gmail.com</strong></li>
+        </ul>
+      </td>
+      <td>
+      ![f58fe8e19a7e25ddf0c459a3599261d6](https://github.com/user-attachments/assets/5c36d553-c6b0-4f56-82f5-62620d092bb1)
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
