@@ -16,8 +16,6 @@
   </a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=littleeinstein21&label=Profile%20views&color=0e75b6&style=flat" alt="littleeinstein21" /> </p>
-
 <p align="left"> <a href="https://twitter.com/baratstein21" target="blank"><img src="https://img.shields.io/twitter/follow/baratstein21?logo=twitter&style=for-the-badge" alt="baratstein21" /></a> </p>
 
 <div align="center">
@@ -32,7 +30,7 @@
         </ul>
       </td>
       <td>
-      ![image](https://github.com/user-attachments/assets/622011d0-15d2-4561-ae3a-88563c368ba0)
+      ![image](https://github.com/user-attachments/assets/b92f568a-2364-400d-a36d-42e0e05ea784)
       </td>
     </tr>
   </table>
