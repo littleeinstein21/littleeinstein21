@@ -44,9 +44,6 @@
   </a>
 <h3 align="left">Operating System:</h3>
 <p align="left">
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.kali.org/assets/images/logos/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/> 
-  </a>
   <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/> 
   </a> 
