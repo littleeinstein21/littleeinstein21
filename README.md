@@ -44,10 +44,20 @@
   </a>
 <h3 align="left">Operating System:</h3>
 <p align="left">
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/assets/images/logos/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/> 
+  </a>
+  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/> 
+  </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=littleeinstein21&show_icons=true&locale=en&layout=compact" alt="littleeinstein21" /></p>
 
