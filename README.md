@@ -31,7 +31,7 @@ I am a fourth semester student majoring in computer engineering at Binus Univers
     <tr>
       <td>
         <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left;">
-          <li>👤 Name: Achmad Danii</li>
+          <li>👤 My name is Achmad Danii</li>
           <li>🌱 I’m currently learning <strong>Kali Linux</strong></li>
           <li>💬 Ask me about <strong>Computer Network and Netwok Security</strong></li>
           <li>📫 How to reach me <strong>iamdaniaja21gmail.com</strong></li>
